@@ -24,8 +24,12 @@ At target from 72% to 73% was gained.
 Increase the number of epoch.
 ![fig5](https://user-images.githubusercontent.com/78861458/123721889-3d779900-d855-11eb-9d43-7e6eefb1a2bc.png)
 
-Using a different activation function for hidden layers  
-Additional hidden layer  
+Using a different activation function for hidden layer.
+![fig6](https://user-images.githubusercontent.com/78861458/123722058-921b1400-d855-11eb-9472-57512f70dd7c.png)
+
+Additional hidden layer.
+![fig4](https://user-images.githubusercontent.com/78861458/123722037-8596bb80-d855-11eb-8c7d-6f1dec11f846.png)
+
 
 ## Summary
 
