@@ -5,4 +5,5 @@ The dataset from Alphabet Soup shows organizations that have received funding fo
 
 ## 1.	Results
 ### Data Preprocessing 
-- What variable(s) are considered the target(s) for your model?
+- What variable(s) are considered the target(s) for your model?  
+Looking at the dataframe that was downloaded from “charity_data.csv”, the question that was asked in the Project Overview, the outcome of the   charity work, “IS_SUCCESSFUL” column is considered our target for the model.
