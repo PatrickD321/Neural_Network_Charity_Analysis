@@ -20,6 +20,13 @@ All the input features values are above zero (0), the activation function, ReLU 
 At target from 72% to 73% was gained. 
 ![fig2](https://user-images.githubusercontent.com/78861458/123720879-1c15ad80-d853-11eb-9eda-ab3e0f4d70e4.png)
 ![fig3](https://user-images.githubusercontent.com/78861458/123721139-a827d500-d853-11eb-88ae-6facf7fe9a5c.png)
+- What steps did you take to try and increase model performance? 
+Increase the number of epoch 
+Using a different activation function for hidden layers  
+Additional hidden layer  
+
+## Summary
+
 
 
 
