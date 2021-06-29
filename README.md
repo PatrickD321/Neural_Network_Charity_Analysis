@@ -7,4 +7,4 @@ The dataset from Alphabet Soup shows organizations that have received funding fo
 ### Data Preprocessing 
 - What variable(s) are considered the target(s) for your model?  
 Looking at the dataframe that was downloaded from “charity_data.csv”, the question  was asked in the Project Overview, the outcome of the charity work, “IS_SUCCESSFUL” variable column is considered our target for the model.  
-- 	What variable(s) are considered to be the features for your model?
+- What variable(s) are considered to be the features for your model?
