@@ -14,6 +14,6 @@ As mention previously any data that are not considered as categorical such as â€
 
 ### Compiling, Training, and Evaluating the Model  
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?  
-Using the rule of thumb we should use a neural network model with six neurons in the hidden layer to properly model our linear and nonlinear datasets, seven neurons were chosen for the model. The optimal size of the hidden layer is usually between the size of the input and size of the output layers. The addition hidden layer with 4 neurons was added just to improve the model. 
+Using the rule of thumb we should use a neural network model with six neurons in the hidden layer to properly model our linear and nonlinear datasets, seven neurons were chosen for this model. The optimal size of the hidden layer is usually between the size of the input and size of the output layers. The addition hidden layer with 4 neurons was added just to improve the model. 
 - 
 
