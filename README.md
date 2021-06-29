@@ -32,6 +32,9 @@ Additional hidden layer.
 
 
 ## Summary
+We learn from this module that Basic Neural Network and Deep Learning Models are not the go solution for all data science problems, although it was built around the ideal for solving artificial intelligence problems. I discovered that using more computations, such more epoch does not constitute a better performance of the model at times seen in this challenge the model behaves poorly with this adjustment. The issue for Neural Network is to choose the proper training algorithm for dataset so that correct predictions can be ascertained. In this challenge the model reached an accuracy 72% and 73% with adjustments to the training set but medical and other major industries require a much more classification accuracy over 95%, so models have to be designed with high level of robustness to meet this standard. 
+To enable Neural Network to meet this standard more components will be needed.
+Other traditional regression model can perform just good as Neural Network and, in some cases, even better. Neural Network gives a wider range for handing different types of data but requires more processing power, this reason we learnt how run the epoch in small segments, save it to be reuse later for calculation. Most if not all regression models does not require this and it be more efficient if correct regression model is chosen to handle a particular task
 
 
 
