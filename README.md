@@ -9,5 +9,6 @@ The dataset from Alphabet Soup shows organizations that have received funding fo
 Looking at the dataframe that was downloaded from “charity_data.csv”, the question  was asked in the Project Overview, the outcome of the charity work, “IS_SUCCESSFUL” variable column is considered our target for the model.  
 - What variable(s) are considered to be the features for your model?  
 Usually an entire dataset has all the information that is necessary to train and build our model but these information should be categorical, that is belonging to a group. Data with columns that have names, ID number and sometimes address are not needed in the analysis and are considered as noise. The features for this model are shown in figure1![fig1](https://user-images.githubusercontent.com/78861458/123720198-84fc2600-d851-11eb-8310-ddd106067276.png)  
-- What variable(s) are neither targets nor features, and should be removed from the input data?
+- What variable(s) are neither targets nor features, and should be removed from the input data?  
+As mention previously any data that are not considered as categorical such as “EIN” and “NAME” from the dataframe should be dropped.
 
